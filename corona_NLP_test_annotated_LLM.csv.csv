@@ -1,0 +1,833 @@
+UserName,ScreenName,Location,TweetAt,OriginalTweet,annotations,promptgemini,reason
+1,44953,NYC,02-03-2020,"TRENDING: New Yorkers encounter empty supermarket shelves (pictured, Wegmans in Brooklyn), sold-out online grocers (FoodKick, MaxDelivery) as #coronavirus-fearing shoppers stock up https://t.co/Gr76pcrLWh https://t.co/ivMKMsqdT1",Negative,"annotate this tweet: TRENDING: New Yorkers encounter empty supermarket shelves (pictured, Wegmans in Brooklyn), sold-out online grocers (FoodKick, MaxDelivery) as #coronavirus-fearing shoppers stock up https://t.co/Gr76pcrLWh https://t.co/ivMKMsqdT1, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The shelves are empty due to the coronavirus, which is a negative event."
+2,44954,"Seattle, WA",02-03-2020,"When I couldn't find hand sanitizer at Fred Meyer, I turned to #Amazon. But $114.97 for a 2 pack of Purell??!!Check out how  #coronavirus concerns are driving up prices. https://t.co/ygbipBflMY",Negative,"annotate this tweet: When I couldn't find hand sanitizer at Fred Meyer, I turned to #Amazon. But $114.97 for a 2 pack of Purell??!!Check out how  #coronavirus concerns are driving up prices. https://t.co/ygbipBflMY, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+The tweet is about the high price of hand sanitizer on Amazon. The author is frustrated that they can't find hand sanitizer at their local store and that the prices on Amazon are so high. The tweet also includes a link to an article about how the coronavirus is driving up the prices of essential goods."
+3,44955,,02-03-2020,Find out how you can protect yourself and loved ones from #coronavirus. ?,Positive,"annotate this tweet: Find out how you can protect yourself and loved ones from #coronavirus. ?, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+The tweet is positive because it provides information on how to protect yourself and loved ones from the coronavirus. This is important information to have to help prevent the spread of the virus."
+4,44956,Chicagoland,02-03-2020,"#Panic buying hits #NewYork City as anxious shoppers stock up on food&amp;medical supplies after #healthcare worker in her 30s becomes #BigApple 1st confirmed #coronavirus patient OR a #Bloomberg staged event?
+
+
+
+https://t.co/IASiReGPC4
+
+
+
+#QAnon #QAnon2018 #QAnon2020 
+
+#Election2020 #CDC https://t.co/29isZOewxu",Extremely Negative,"annotate this tweet: #Panic buying hits #NewYork City as anxious shoppers stock up on food&amp;medical supplies after #healthcare worker in her 30s becomes #BigApple 1st confirmed #coronavirus patient OR a #Bloomberg staged event?
+
+
+
+https://t.co/IASiReGPC4
+
+
+
+#QAnon #QAnon2018 #QAnon2020 
+
+#Election2020 #CDC https://t.co/29isZOewxu, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","y Negative**
+
+The tweet is extremely negative because it suggests that the panic buying seen in New York City is either due to the first confirmed case of coronavirus in the city or a staged event by former New York City mayor Michael Bloomberg. The tweet also includes the hashtags #QAnon, #QAnon2018, and #QAnon2020, which are all associated with the QAnon conspiracy theory. The tweet is also critical of the Centers for Disease Control and Prevention (CDC)."
+5,44957,"Melbourne, Victoria",03-03-2020,#toiletpaper #dunnypaper #coronavirus #coronavirusaustralia #CoronaVirusUpdate #Covid_19 #9News  #Corvid19 #7NewsMelb #dunnypapergate #Costco    One week everyone buying baby milk powder the next everyone buying up toilet paper. https://t.co/ScZryVvsIh,Unknown sentiment,"annotate this tweet: #toiletpaper #dunnypaper #coronavirus #coronavirusaustralia #CoronaVirusUpdate #Covid_19 #9News  #Corvid19 #7NewsMelb #dunnypapergate #Costco    One week everyone buying baby milk powder the next everyone buying up toilet paper. https://t.co/ScZryVvsIh, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet is about people panic-buying toilet paper due to the coronavirus pandemic. This is a negative situation because it can lead to shortages of toilet paper for people who actually need it. The tweet also refers to the #dunnypapergate hashtag, which is a negative trend on Twitter about the toilet paper shortage."
+6,44958,Los Angeles,03-03-2020,Do you remember the last time you paid $2.99 a gallon for regular gas in Los Angeles?Prices at the pump are going down. A look at how the #coronavirus is impacting prices. 4pm @ABC7 https://t.co/Pyzq8YMuV5,Unknown sentiment,"annotate this tweet: Do you remember the last time you paid $2.99 a gallon for regular gas in Los Angeles?Prices at the pump are going down. A look at how the #coronavirus is impacting prices. 4pm @ABC7 https://t.co/Pyzq8YMuV5, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet discusses how gas prices are going down due to the impact of the #coronavirus. This is good news for consumers, as it means they will be spending less money on gas."
+7,44959,,03-03-2020,Voting in the age of #coronavirus = hand sanitizer ? #SuperTuesday https://t.co/z0BeL4O6Dk,Positive,"annotate this tweet: Voting in the age of #coronavirus = hand sanitizer ? #SuperTuesday https://t.co/z0BeL4O6Dk, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+The tweet is positive because it highlights the importance of taking precautions to stay healthy while voting, such as using hand sanitizer."
+8,44960,"Geneva, Switzerland",03-03-2020,"@DrTedros ""We cant stop #COVID19 without protecting #healthworkers.
+
+Prices of surgical masks have increased six-fold, N95 respirators have more than trebled &amp; gowns cost twice as much""-@DrTedros #coronavirus",Unknown sentiment,"annotate this tweet: @DrTedros ""We cant stop #COVID19 without protecting #healthworkers.
+
+Prices of surgical masks have increased six-fold, N95 respirators have more than trebled &amp; gowns cost twice as much""-@DrTedros #coronavirus, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","Negative
+
+The tweet highlights the challenges healthcare workers are facing in accessing essential protective gear, which is crucial for their safety and the safety of their patients. The substantial increase in prices for surgical masks, N95 respirators, and gowns is a significant concern that could hinder the ability of healthcare workers to provide adequate care."
+9,44961,,04-03-2020,"HI TWITTER! I am a pharmacist. I sell hand sanitizer for a living! Or I do when any exists. Like masks, it is sold the fuck out everywhere. SHOULD YOU BE WORRIED? No. Use soap. SHOULD YOU VISIT TWENTY PHARMACIES LOOKING FOR THE LAST BOTTLE? No. Pharmacies are full of sick people.",Error: Unable to analyze label exception tweet,"annotate this tweet: HI TWITTER! I am a pharmacist. I sell hand sanitizer for a living! Or I do when any exists. Like masks, it is sold the fuck out everywhere. SHOULD YOU BE WORRIED? No. Use soap. SHOULD YOU VISIT TWENTY PHARMACIES LOOKING FOR THE LAST BOTTLE? No. Pharmacies are full of sick people., from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: Unable to analyze reason exception tweet
+10,44962,"Dublin, Ireland",04-03-2020,"Anyone been in a supermarket over the last few days? Went to do my NORMAL shop last night &amp; ??is the sight that greeted me. Barmy! (Btw, whats so special about tinned tomatoes? ????????????). #Covid_19 #Dublin https://t.co/rGsM8xUxr6",Negative,"annotate this tweet: Anyone been in a supermarket over the last few days? Went to do my NORMAL shop last night &amp; ??is the sight that greeted me. Barmy! (Btw, whats so special about tinned tomatoes? ????????????). #Covid_19 #Dublin https://t.co/rGsM8xUxr6, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+The tweet expresses a negative sentiment towards the situation in supermarkets during the COVID-19 pandemic. The author uses words like ""barmy"" and ""????"" to express their frustration and disbelief at the sight of empty shelves and long queues.
+
+#Covid_19
+#Dublin"
+11,44963,"Boksburg, South Africa",04-03-2020,"Best quality couches at unbelievably low prices available to order.
+
+
+
+We are in Boksburg GP 
+
+
+
+For more info WhatsApp:
+
+084 764 8086
+
+
+
+#SuperTuesdsy #PowerTalk 
+
+#Covid_19 #SayEntrepreneur 
+
+#DJSBU https://t.co/HhDJhyQ2Dc",Positive,"annotate this tweet: Best quality couches at unbelievably low prices available to order.
+
+
+
+We are in Boksburg GP 
+
+
+
+For more info WhatsApp:
+
+084 764 8086
+
+
+
+#SuperTuesdsy #PowerTalk 
+
+#Covid_19 #SayEntrepreneur 
+
+#DJSBU https://t.co/HhDJhyQ2Dc, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+The tweet is promoting a product at a low price, which could be beneficial to potential customers. The use of the hashtag #SuperTuesday and #PowerTalk also suggests that the tweet is trying to be engaging and relevant to current events.
+
+**Extremely positive**
+
+The tweet is very enthusiastic and upbeat about the product, using phrases like ""best quality"" and ""unbelievably low prices."" The use of the hashtag #SayEntrepreneur also suggests that the tweet is trying to be supportive of small businesses.
+
+**Negative**
+
+The tweet does not provide much information about the product, such as the brand or materials used. The use of hashtags that are not related to the product could also be seen as spammy.
+
+**Extremely negative**
+
+The tweet is very vague and does not provide any concrete information about the product or business. The use of multiple hashtags that are not relevant to the product could also be seen as misleading."
+12,44964,New Delhi,04-03-2020,"Beware of counterfeits trying to sell fake masks at cheap prices. Let's defeat coronavirus threat, #Covid_19 collectively. #BeSafe #BeACascader #CoronavirusReachesDelhi 
+
+#coronavirusindia 
+
+
+
+https://t.co/2Ikkmimj4f https://t.co/RB9rtt7Nkc",Extremely Negative,"annotate this tweet: Beware of counterfeits trying to sell fake masks at cheap prices. Let's defeat coronavirus threat, #Covid_19 collectively. #BeSafe #BeACascader #CoronavirusReachesDelhi 
+
+#coronavirusindia 
+
+
+
+https://t.co/2Ikkmimj4f https://t.co/RB9rtt7Nkc, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","y Negative**
+
+The tweet warns against counterfeit masks, a serious problem that can put people at risk. It also encourages people to work together to defeat the coronavirus threat."
+13,44965,"USA, PA",04-03-2020,"Panic food buying in Germany due to #coronavirus has begun.  But the #organic is left behind! #Hamsterkauf
+
+
+
+Panic buying is called ""Hamster purchases""(Hamsterkäufe) in German, taken from the way Hamsters stuff their cheeks with food.  
+
+
+
+https://t.co/aYQtLLGW1m",Unknown sentiment,"annotate this tweet: Panic food buying in Germany due to #coronavirus has begun.  But the #organic is left behind! #Hamsterkauf
+
+
+
+Panic buying is called ""Hamster purchases""(Hamsterkäufe) in German, taken from the way Hamsters stuff their cheeks with food.  
+
+
+
+https://t.co/aYQtLLGW1m, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","on:**
+
+**Tweet:**
+
+```
+Panic food buying in Germany due to #coronavirus has begun. But the #organic is left behind! #Hamsterkauf
+```
+
+**Labels:**
+
+* **Negative:** The tweet conveys a negative sentiment due to the mention of ""panic food buying"" and the fact that organic food is being left behind.
+* **Extremely Negative:** The use of the hashtag ""#Hamsterkauf"" (hamster purchases in German) reinforces the sense of urgency and panic surrounding the food buying behavior."
+14,44966,,04-03-2020,"#Covid_19 Went to the Grocery Store, turns out all cleaning supplies have been bought out for fear of Coronavirus.
+
+
+
+My daughter's substitute teacher showed her class how to make hand sanitizer. Now I just need to buy some 100% alcohol. Wish me luck that any stores will have it.",Unknown sentiment,"annotate this tweet: #Covid_19 Went to the Grocery Store, turns out all cleaning supplies have been bought out for fear of Coronavirus.
+
+
+
+My daughter's substitute teacher showed her class how to make hand sanitizer. Now I just need to buy some 100% alcohol. Wish me luck that any stores will have it., from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","ely Negative
+
+The tweet expresses fear and helplessness in the face of the COVID-19 pandemic. The author went to the grocery store to buy cleaning supplies but found that they had all been bought out. They are also having trouble finding 100% alcohol to make hand sanitizer. This is a sign of the widespread panic and hoarding that is happening in response to the pandemic."
+15,44967,"Washington, DC",04-03-2020,"While we were busy watching election returns and bracing for a Covid-19 outbreak, Trump nominated a chemical-industry lobbyist to head the Consumer Product Safety Commission https://t.co/M2ShHI1Tn0",Unknown sentiment,"annotate this tweet: While we were busy watching election returns and bracing for a Covid-19 outbreak, Trump nominated a chemical-industry lobbyist to head the Consumer Product Safety Commission https://t.co/M2ShHI1Tn0, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet frames the appointment of a chemical-industry lobbyist to head the Consumer Product Safety Commission as a negative development, implying that this nomination may not be in the best interests of consumers."
+16,44968,Bengaluru ,04-03-2020,"#AirSewa 
+
+
+
+@flyspicejet is not providing #webchecin customers free seats.
+
+
+
+Passengers are forced to choose paid seats as free seats are made available only at airport counter. 
+
+
+
+This should be stopped as its discriminatory and against travellers rights 
+
+
+
+@HardeepSPuri @MoCA_GoI",Unknown sentiment,"annotate this tweet: #AirSewa 
+
+
+
+@flyspicejet is not providing #webchecin customers free seats.
+
+
+
+Passengers are forced to choose paid seats as free seats are made available only at airport counter. 
+
+
+
+This should be stopped as its discriminatory and against travellers rights 
+
+
+
+@HardeepSPuri @MoCA_GoI, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet is highly critical of @flyspicejet for not providing free seats to #webcheckin customers. The passenger feels that this is discriminatory and unfair. He also tags the Minister of Civil Aviation and the Ministry of Civil Aviation, indicating that he is seeking attention and intervention from the government."
+17,44969,Mumbai,05-03-2020,"What Precautionary measures have you all taken in your respective Restaurants and Hotels, Comment below...
+
+#COVID-19 #Coronavirus
+
+
+
+COVID-19: Hotel chains enforce precautionary measures, issue safety, hygiene advisories
+
+https://t.co/7Zo2vqSPzY",Unknown sentiment,"annotate this tweet: What Precautionary measures have you all taken in your respective Restaurants and Hotels, Comment below...
+
+#COVID-19 #Coronavirus
+
+
+
+COVID-19: Hotel chains enforce precautionary measures, issue safety, hygiene advisories
+
+https://t.co/7Zo2vqSPzY, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",The tweet seeks information about precautionary measures taken by restaurants and hotels to ensure safety and hygiene during the COVID-19 pandemic. This implies a positive and proactive approach towards managing the crisis. The use of #COVID-19 and #Coronavirus further highlights the relevance of the topic and the need for such measures.
+18,44970,"Toronto, Ontario",05-03-2020,"When youre stockpiling food &amp; other supplies, buy extra for your local food bank. Many families dont have the luxury to spend beyond their weekly budget. @DailyBreadTO  #coronavirus",Unknown sentiment,"annotate this tweet: When youre stockpiling food &amp; other supplies, buy extra for your local food bank. Many families dont have the luxury to spend beyond their weekly budget. @DailyBreadTO  #coronavirus, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","y Positive**
+
+The tweet is extremely positive because it encourages people to help others during a time of crisis. The author suggests that people buy extra food and supplies for their local food bank, which will help families who are struggling financially during the coronavirus pandemic. The tweet also includes the hashtag #coronavirus, which shows that the author is aware of the severity of the situation and wants to help those who are affected."
+19,44971,,05-03-2020,"That's about a week from now. A bit optimistic.  Probably it will take another month.  Supply chain may be recovering, demand chain will be non-existent in US and Europe for the next month or two.
+
+$spx $qqq $es $nq https://t.co/yXcOfL0BnI",Negative,"annotate this tweet: That's about a week from now. A bit optimistic.  Probably it will take another month.  Supply chain may be recovering, demand chain will be non-existent in US and Europe for the next month or two.
+
+$spx $qqq $es $nq https://t.co/yXcOfL0BnI, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+The tweet is negative because it expresses pessimism about the future of the economy. The author believes that the supply chain is recovering, but that the demand chain will be non-existent in the US and Europe for the next month or two. This is likely to lead to a slowdown in economic growth and could even lead to a recession."
+20,44972,Tallahassee,05-03-2020,"Studies show the #coronavirus like #COVID19 can live up to nine days on hard surfaces like metal, plastic, and glass.
+
+
+
+Our Deputy Commissioner of Consumer Affairs Mary Barzee Flores shows you how to keep clean at the gas pump.
+
+
+
+Watch and share? https://t.co/AIqATWT5zz",Positive,"annotate this tweet: Studies show the #coronavirus like #COVID19 can live up to nine days on hard surfaces like metal, plastic, and glass.
+
+
+
+Our Deputy Commissioner of Consumer Affairs Mary Barzee Flores shows you how to keep clean at the gas pump.
+
+
+
+Watch and share? https://t.co/AIqATWT5zz, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+This tweet is positive because it provides useful information about how to stay safe from the coronavirus. It also includes a link to a video that shows how to clean at the gas pump, which is a place where people are likely to come into contact with the virus.
+
+**Extremely positive**
+
+This tweet is extremely positive because it provides essential information about how to stay safe from the coronavirus. It also includes a link to a video that shows how to clean at the gas pump, which is a place where people are likely to come into contact with the virus. The tweet is also well-written and easy to understand.
+
+**Negative**
+
+This tweet is negative because it provides information about the dangers of the coronavirus, which can be scary for some people. It also does not include any information about how to stay safe from the virus.
+
+**Extremely negative**
+
+This tweet is extremely negative because it provides information about the dangers of the coronavirus, which can be very scary for some people. It also does not include any information about how to stay safe from the virus. The tweet is also poorly written and difficult to understand."
+21,44973,Malta,05-03-2020,"#CoronaVirus #COVID_19 People are starting to become frightened and to do #PanicShopping. Many shelves, meanwhile, turn empty as #goods are sold. #FaceMasks &amp; disinfection liquid are sold out, or they are sold for exorbitant prices! #Blockchain #CryptoNews https://t.co/AkR3lmLEKf",Negative,"annotate this tweet: #CoronaVirus #COVID_19 People are starting to become frightened and to do #PanicShopping. Many shelves, meanwhile, turn empty as #goods are sold. #FaceMasks &amp; disinfection liquid are sold out, or they are sold for exorbitant prices! #Blockchain #CryptoNews https://t.co/AkR3lmLEKf, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","** 
+
+Reason: The tweet expresses concern about the spread of the coronavirus and the resulting panic shopping, which is leading to empty shelves and inflated prices for essential items such as face masks and disinfection liquid."
+22,44974,"Texas, USA",05-03-2020,"For those of you that think credit/debit is just as good as #bitcoin when it comes to combating #coronavirus, keep in mind that this is not a ""contactless transaction.""  How many people at your grocery store or gas station touch this keypad every day? https://t.co/WVq8bb9OlS",Unknown sentiment,"annotate this tweet: For those of you that think credit/debit is just as good as #bitcoin when it comes to combating #coronavirus, keep in mind that this is not a ""contactless transaction.""  How many people at your grocery store or gas station touch this keypad every day? https://t.co/WVq8bb9OlS, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","y Negative__
+
+The tweet is negative because it is critical of the use of credit/debit cards as a way to combat the coronavirus. The author argues that using credit/debit cards is not a ""contactless transaction"" and that many people touch the keypad at a grocery store or gas station every day, which could lead to the spread of the virus."
+23,44975,"Florida, USA",06-03-2020,Control over stocks and gold is lost...gold coming back very nicely! Loves wallbridge and Balmoral and warns listeners about #coronavirus Sprott Money Ltd. recently put in money to $OCG $GENM $MMG and many more... https://t.co/3aURZ2e4Sj,Positive,"annotate this tweet: Control over stocks and gold is lost...gold coming back very nicely! Loves wallbridge and Balmoral and warns listeners about #coronavirus Sprott Money Ltd. recently put in money to $OCG $GENM $MMG and many more... https://t.co/3aURZ2e4Sj, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+* Loves wallbridge and Balmoral
+* Sprott Money Ltd. recently put in money to $OCG $GENM $MMG and many more...
+
+**Extremely positive**
+
+* gold coming back very nicely!
+
+**Negative**
+
+* Control over stocks and gold is lost...
+
+**Extremely Negative**
+
+* #coronavirus"
+24,44976,Chandigarh,06-03-2020,"Sellers are cashing on your panic to sell facemasks and sanitizers at super inflated prices.
+
+
+
+In reality, neither sanitizer nor facemasks are ""must have"" to save yourself from #coronavirus. 
+
+
+
+Please watch this video for more :
+
+
+
+https://t.co/sgOFnAu4j8",Unknown sentiment,"annotate this tweet: Sellers are cashing on your panic to sell facemasks and sanitizers at super inflated prices.
+
+
+
+In reality, neither sanitizer nor facemasks are ""must have"" to save yourself from #coronavirus. 
+
+
+
+Please watch this video for more :
+
+
+
+https://t.co/sgOFnAu4j8, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet expresses extreme disapproval of the actions of sellers who are taking advantage of the public's fear and panic surrounding the coronavirus pandemic to sell facemasks and sanitizers at inflated prices. The tweet also asserts that these items are not essential for preventing the spread of the virus, and encourages people to watch a video for more information."
+25,44977,Canada,07-03-2020,"Canada's oilpatch is bracing for the impact of plunging crude prices after OPEC and its allies failed to reach a deal aimed at cutting production as economies slow because of the novel #coronavirus. The fool @Jkenney based his budget on hired oil prices 
+
+
+
+https://t.co/fDCpQPvPuo",Error: Unable to analyze label exception tweet,"annotate this tweet: Canada's oilpatch is bracing for the impact of plunging crude prices after OPEC and its allies failed to reach a deal aimed at cutting production as economies slow because of the novel #coronavirus. The fool @Jkenney based his budget on hired oil prices 
+
+
+
+https://t.co/fDCpQPvPuo, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: Unable to analyze reason exception tweet
+26,44978,"Wayne County, MI",07-03-2020,"Alright yall I hope our Melanin prevails but just in case I took some precautions I had some food &amp; water delivered. ????? Ive had my masks for a month and may have to open soon! 
+
+?? #B1 #FBA 
+
+
+
+#CoronavirusUSA #COVID https://t.co/cTQMDgDgtD",Positive,"annotate this tweet: Alright yall I hope our Melanin prevails but just in case I took some precautions I had some food &amp; water delivered. ????? Ive had my masks for a month and may have to open soon! 
+
+?? #B1 #FBA 
+
+
+
+#CoronavirusUSA #COVID https://t.co/cTQMDgDgtD, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+- The user is taking precautions to stay safe and healthy during the COVID-19 pandemic.
+- The user is hopeful that their precautions will be effective.
+- The user is being proactive and preparing for the possibility of having to stay home for an extended period of time.
+
+**Negative**
+
+- The user is concerned about the possibility of having to stay home for an extended period of time.
+- The user is worried about the impact of the COVID-19 pandemic on their health and well-being."
+27,44979,"Bondi Beach, Sydney",07-03-2020,When your usual grocery shopping @woolworths turns into a toilet paper fight in the supermarket aisle. Yikes. #toiletpaperpanic for the #coronavirus has taken a whole new level. https://t.co/aKJ283I20C,Extremely Negative,"annotate this tweet: When your usual grocery shopping @woolworths turns into a toilet paper fight in the supermarket aisle. Yikes. #toiletpaperpanic for the #coronavirus has taken a whole new level. https://t.co/aKJ283I20C, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","y Negative**
+
+The tweet expresses a negative sentiment about the situation in the supermarket aisle. The author is using the words ""Yikes"" and ""#toiletpaperpanic"" to convey their shock and frustration. They are also using the hashtag ""#coronavirus"" to indicate that the hoarding of toilet paper is a result of the pandemic."
+28,44980,,07-03-2020,"Coronavirus panic spreads: Costco is pulling free samples over COVID-19 - USA TODAY
+
+
+
+Coronavirus panic spreads: Costco is pulling free samples over COVID-19  USA TODAY
+
+
+
+'It's pandemonium': virus panic-buying hits Los Angeles  Yahoo News
+
+
+
+How Costco is Ha https://t.co/MyTDpDomEI",Unknown sentiment,"annotate this tweet: Coronavirus panic spreads: Costco is pulling free samples over COVID-19 - USA TODAY
+
+
+
+Coronavirus panic spreads: Costco is pulling free samples over COVID-19  USA TODAY
+
+
+
+'It's pandemonium': virus panic-buying hits Los Angeles  Yahoo News
+
+
+
+How Costco is Ha https://t.co/MyTDpDomEI, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",The tweet is about Costco pulling free samples over COVID-19. This is a negative thing because it shows that the coronavirus is causing panic and disruption.
+29,44981,,07-03-2020,"While you are stocking up, waiting for quarantine, if you can don't forget to donate  food, water, and toiletries to your local food banks to help others without the means to stock up. Get ahead of it before it becomes a crisis. #covid19 #coronavirus",Positive,"annotate this tweet: While you are stocking up, waiting for quarantine, if you can don't forget to donate  food, water, and toiletries to your local food banks to help others without the means to stock up. Get ahead of it before it becomes a crisis. #covid19 #coronavirus, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+The tweet is positive because it encourages people to donate to food banks to help others who may not be able to stock up on supplies due to financial constraints. The tweet also encourages people to get ahead of the crisis by donating before it becomes a problem.
+
+** Extremely positive**
+
+The tweet is extremely positive because it shows that the person who wrote it is concerned about the well-being of others and wants to help those who are less fortunate. The tweet also shows that the person who wrote it is aware of the importance of being prepared for a crisis.
+
+**Negative**
+
+The tweet is negative because it highlights the fact that some people may not be able to afford to stock up on supplies, which could lead to food insecurity during a crisis. The tweet also implies that there may be a crisis in the future, which could cause anxiety or fear.
+
+**Extremely Negative**
+
+The tweet is extremely negative because it suggests that there may be a crisis in the future that will cause widespread suffering. The tweet also implies that people who are not able to stock up on supplies will be left behind and may not be able to survive the crisis."
+30,44982,United States,07-03-2020,"#Coronavirus is ""an exposure of all the holes in the social safety net,"" says NELP Government Affairs Director Judy Conti
+
+
+
+#UI #Unemployment #PaidLeaveForAll
+
+https://t.co/BrCY9IJWSv",Unknown sentiment,"annotate this tweet: #Coronavirus is ""an exposure of all the holes in the social safety net,"" says NELP Government Affairs Director Judy Conti
+
+
+
+#UI #Unemployment #PaidLeaveForAll
+
+https://t.co/BrCY9IJWSv, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet highlights the negative impact of the coronavirus pandemic on individuals and society, particularly those without adequate social safety nets. It suggests that the pandemic has exposed the lack of support and resources available to many people facing job losses, financial difficulties, and health concerns."
+31,44983,"New York, New York",07-03-2020,"Two important phone numbers NYers should know. If you have no doctor or insurance and think you may be sick and need to be tested for #coronavirus, call the state's helpline: 1-888-364-3065. To report price gouging, call the Div. of Consumer Protection at 1-800-697-1220.",Positive,"annotate this tweet: Two important phone numbers NYers should know. If you have no doctor or insurance and think you may be sick and need to be tested for #coronavirus, call the state's helpline: 1-888-364-3065. To report price gouging, call the Div. of Consumer Protection at 1-800-697-1220., from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+This tweet provides two important phone numbers for New Yorkers who may need assistance during the COVID-19 pandemic. The first number is for the state's helpline, which can provide information on testing for the virus and other resources for those who do not have a doctor or insurance. The second number is for the Division of Consumer Protection, which can help investigate and address reports of price gouging. This information is essential for New Yorkers who may need help during this challenging time."
+32,44984,"London, England",08-03-2020,"Tip for all Pro Wrestlers to help combat the #coronavirus...be more like @ZoeLucasPro and bring hand sanitizer to your matches as a precaution
+
+
+
+#EVEWrestling @ProWrestlingEVE https://t.co/SUYUsaPm7j",Unknown sentiment,"annotate this tweet: Tip for all Pro Wrestlers to help combat the #coronavirus...be more like @ZoeLucasPro and bring hand sanitizer to your matches as a precaution
+
+
+
+#EVEWrestling @ProWrestlingEVE https://t.co/SUYUsaPm7j, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet encourages preventive measures to combat the coronavirus, specifically for professional wrestlers."
+33,44985,USA,08-03-2020,"Is this effective?
+
+Is it necessary?
+
+Or is it just optics?
+
+Scare tactics?
+
+For the American consumer?
+
+For US MSM to use?
+
+If optics, What is the intended effect?
+
+Fear?
+
+Crash US Market-&gt;panic-&gt;elect Biden
+
+
+
+#Qanon #coronavirus https://t.co/H48ZMfuAme",Unknown sentiment,"annotate this tweet: Is this effective?
+
+Is it necessary?
+
+Or is it just optics?
+
+Scare tactics?
+
+For the American consumer?
+
+For US MSM to use?
+
+If optics, What is the intended effect?
+
+Fear?
+
+Crash US Market-&gt;panic-&gt;elect Biden
+
+
+
+#Qanon #coronavirus https://t.co/H48ZMfuAme, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet is questioning the motives of the American consumer, the US MSM, and the Biden administration. It is also using fear-mongering language to suggest that the coronavirus pandemic is being used to manipulate the US market and elect Biden."
+34,44986,"Toronto, Ontario",08-03-2020,"IMHO Russia's rug pull on oil prices is designed to end the dollar as the global reserve currency. How? Corp debt collapse, led by high yield and fracking, compounded by COVID-19, will mean Fed and US Govt respond with #MMT. Ciao dollar. Alt is collapse. Got #Gold or #Silver yet?",Unknown sentiment,"annotate this tweet: IMHO Russia's rug pull on oil prices is designed to end the dollar as the global reserve currency. How? Corp debt collapse, led by high yield and fracking, compounded by COVID-19, will mean Fed and US Govt respond with #MMT. Ciao dollar. Alt is collapse. Got #Gold or #Silver yet?, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet is predicting a negative outcome, the collapse of the dollar as the global reserve currency."
+35,44987,"Angmering, West Sussex",08-03-2020,So not due to #Brexit at all then &gt;&gt; Supermarkets begin #foodrationing after wave of #coronavirus-fuelled panic buying https://t.co/AKgkHxO0tW,Negative,"annotate this tweet: So not due to #Brexit at all then &gt;&gt; Supermarkets begin #foodrationing after wave of #coronavirus-fuelled panic buying https://t.co/AKgkHxO0tW, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+The tweet is sharing an article about supermarkets in the UK implementing food rationing due to a wave of panic buying fueled by the coronavirus outbreak. The tweet also includes the hashtag #Brexit, implying that Brexit may have played a role in the situation. However, the article itself does not mention Brexit, and there is no evidence to suggest that it is a contributing factor. The tweet is therefore spreading misinformation and could create unnecessary fear and anxiety."
+36,44988,"Dont ask for freedom, take it.",08-03-2020,"Remember, with all the media deflection stories about bog rolls, panic-buying, food shortages, Covid-19, Irish bridges etc etc.
+
+
+
+We've still got Brexit, Austerity, poverty, a crashing economy &amp; the worst UK Govt in living memory. 
+
+
+
+All depressing stuff &amp; it aint gonna end well.",Negative,"annotate this tweet: Remember, with all the media deflection stories about bog rolls, panic-buying, food shortages, Covid-19, Irish bridges etc etc.
+
+
+
+We've still got Brexit, Austerity, poverty, a crashing economy &amp; the worst UK Govt in living memory. 
+
+
+
+All depressing stuff &amp; it aint gonna end well., from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+The tweet is full of negative language, such as ""deflection stories"", ""panic-buying"", ""food shortages"", ""Covid-19"", ""Irish bridges"", ""Brexit"", ""Austerity"", ""poverty"", ""crashing economy"", ""worst UK Govt in living memory"", ""depressing stuff"", and ""aint gonna end well"".
+
+The author is clearly expressing their dissatisfaction with the current state of affairs in the UK. They believe that the government is not doing enough to address the real issues facing the country, such as Brexit, austerity, and poverty."
+37,44989,"New York, NY",08-03-2020,"Fellow Uni instructors! COVID-19 f2f class cancelations are  inconvenient! But remember you're salaried employees. Maybe call/email HR or your union &amp; demand to know how hourly workers (clerical, food-service, custodial, etc) will be  compensated during campus closures?",Unknown sentiment,"annotate this tweet: Fellow Uni instructors! COVID-19 f2f class cancelations are  inconvenient! But remember you're salaried employees. Maybe call/email HR or your union &amp; demand to know how hourly workers (clerical, food-service, custodial, etc) will be  compensated during campus closures?, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet expresses frustration and inconvenience due to COVID-19 class cancelations. It also raises concerns about the compensation of hourly workers during campus closures, implying that salaried employees may be less affected by the situation."
+38,44990,,08-03-2020,"@howroute Its not even over food... what the actual heck?? I have news for these people ... 
+
+
+
+you need food and water before you need the paper to wipe your a$$. Just sayin.. ? 
+
+
+
+#covid19 #Covid_19 #coronavirus #corona #virus #panic",Unknown sentiment,"annotate this tweet: @howroute Its not even over food... what the actual heck?? I have news for these people ... 
+
+
+
+you need food and water before you need the paper to wipe your a$$. Just sayin.. ? 
+
+
+
+#covid19 #Covid_19 #coronavirus #corona #virus #panic, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet expresses frustration and anger towards people who are panic buying and hoarding food and supplies during the COVID-19 pandemic. The author argues that food and water are essential for survival, and that people should prioritize these items over toilet paper and other non-essential items."
+39,44991,"Sydney, New South Wales",08-03-2020,"1/25 Part 1 - Why does soap work so well on the SARS-CoV-2, the coronavirus and indeed most viruses? Because it is a self-assembled nanoparticle in which the weakest link is the lipid (fatty) bilayer. A two part thread about soap, viruses and supramolecular chemistry #COVID19 https://t.co/OCwqPjO5Ht",Positive,"annotate this tweet: 1/25 Part 1 - Why does soap work so well on the SARS-CoV-2, the coronavirus and indeed most viruses? Because it is a self-assembled nanoparticle in which the weakest link is the lipid (fatty) bilayer. A two part thread about soap, viruses and supramolecular chemistry #COVID19 https://t.co/OCwqPjO5Ht, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+The tweet is about the effectiveness of soap in fighting viruses, including SARS-CoV-2. The author explains that soap is a self-assembled nanoparticle that targets the lipid bilayer of the virus, which is its weakest link. This information is helpful and informative, and it could help people understand how soap works to fight viruses.
+
+**Extremely positive**
+The tweet is not overly positive or enthusiastic. It simply states the facts about how soap works to fight viruses.
+
+**Negative**
+The tweet is not negative or critical. It does not contain any negative or critical statements about soap or viruses.
+
+**Extremely negative**
+The tweet is not extremely negative or critical. It does not contain any extremely negative or critical statements about soap or viruses."
+40,44992,Socially Distanced in NC,08-03-2020,"Thread: Please STOP shaming folks who stock up on food and personal care products ahead of #CoronaVirus #COVID19. #Trump made it clear that he doesnt care and wont help, so theyre protecting their families their way. Its a tiny bit of mastery and control in terrifying times. https://t.co/12eMup9mtA",Extremely positive,"annotate this tweet: Thread: Please STOP shaming folks who stock up on food and personal care products ahead of #CoronaVirus #COVID19. #Trump made it clear that he doesnt care and wont help, so theyre protecting their families their way. Its a tiny bit of mastery and control in terrifying times. https://t.co/12eMup9mtA, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","y positive**
+
+The tweet is extremely positive because it encourages people to stop shaming those who are stocking up on food and personal care products ahead of the #CoronaVirus #COVID19 outbreak. The author argues that these people are simply trying to protect their families in a time of uncertainty and that they should not be shamed for doing so. The tweet also provides a link to an article that supports the author's argument."
+41,44993,"Michigan, USA",09-03-2020,"For those thinking #seniors #disabled &amp; #vets shouldnt be included in any @realDonaldTrump aid package because of #Covid_19 #coronavirus check prices on antibacterial soaps, disinfectant safer transportation other than crowded city busses list goes on @SenStabenow @RashidaTlaib",Unknown sentiment,"annotate this tweet: For those thinking #seniors #disabled &amp; #vets shouldnt be included in any @realDonaldTrump aid package because of #Covid_19 #coronavirus check prices on antibacterial soaps, disinfectant safer transportation other than crowded city busses list goes on @SenStabenow @RashidaTlaib, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",":**
+
+* The tweet expresses concern for the well-being of seniors, disabled people, and veterans during the COVID-19 pandemic.
+* The tweet calls attention to the need for financial assistance for these vulnerable populations.
+* The tweet highlights the increased costs of essential items like antibacterial soaps and disinfectant.
+* The tweet suggests safer transportation options for these groups, such as avoiding crowded city buses.
+
+**Extremely positive:**
+
+* The tweet shows empathy and compassion for those most affected by the pandemic.
+* The tweet advocates for policies that would protect and support these vulnerable populations.
+* The tweet provides specific examples of how these groups are being disproportionately impacted by the pandemic.
+
+**Negative:**
+
+* The tweet implies that some people believe that seniors, disabled people, and veterans should not be included in aid packages.
+* The tweet does not provide any evidence to support this claim.
+* The tweet may create division and resentment by suggesting that some people are more deserving of aid than others.
+
+**Extremely negative:**
+
+* The tweet could be interpreted as ageist, ableist, and disrespectful towards veterans.
+* The tweet could discourage people from seeking help if they believe they are not deserving of it.
+* The tweet could damage the reputation of those who are advocating for aid for these vulnerable populations."
+42,44994,Pennsylvania,09-03-2020,"So far 36 Pennsylvanians have reached out to my Office to report inflated prices on everything from disinfectant spray to liquid soap.
+
+ 
+
+Price gouging like this isnt just wrong, its illegal. Keep your emails coming: pricegouging@attorneygeneral.gov #coronavirus",Unknown sentiment,"annotate this tweet: So far 36 Pennsylvanians have reached out to my Office to report inflated prices on everything from disinfectant spray to liquid soap.
+
+ 
+
+Price gouging like this isnt just wrong, its illegal. Keep your emails coming: pricegouging@attorneygeneral.gov #coronavirus, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",The tweet highlights the illegal and unethical practice of price gouging during the coronavirus pandemic. It emphasizes that this behavior is harmful and encourages people to report it.
+43,44995,Kolkata?? and Dhaka??,09-03-2020,"Global stock markets continued their bear run as #DowJones and S&amp;P500 plunged as they opened on Monday. Plunge was largely on the back of the 30% overnight slump in #CrudeOil prices, along with the persistent concerns over the impact of #CoronaVirus on the global #economy.",Extremely Negative,"annotate this tweet: Global stock markets continued their bear run as #DowJones and S&amp;P500 plunged as they opened on Monday. Plunge was largely on the back of the 30% overnight slump in #CrudeOil prices, along with the persistent concerns over the impact of #CoronaVirus on the global #economy., from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","y Negative**
+
+The tweet is about a global stock market plunge, which is a negative event. It also mentions the 30% overnight slump in crude oil prices, which is another negative factor. The tweet also mentions the persistent concerns over the impact of the coronavirus on the global economy, which is another negative factor."
+44,44996,"Washington, D.C.",09-03-2020,Scammers are taking advantage of fears surrounding the #Coronavirus. Here are some tips to help you keep scammers at bay: https://t.co/Yt892bgnBu #COVID2019 https://t.co/kmILU80H6h,Error: Unable to analyze label exception tweet,"annotate this tweet: Scammers are taking advantage of fears surrounding the #Coronavirus. Here are some tips to help you keep scammers at bay: https://t.co/Yt892bgnBu #COVID2019 https://t.co/kmILU80H6h, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: Unable to analyze reason exception tweet
+45,44997,"Burnaby, British Columbia",09-03-2020,"Are you doing business in international markets? This @ExportDevCanada webinar will show you how to navigate todays exporting challenges and rising commodity prices due to the COVID-19 virus.
+
+
+
+https://t.co/pDBUlOnAEI",Extremely positive,"annotate this tweet: Are you doing business in international markets? This @ExportDevCanada webinar will show you how to navigate todays exporting challenges and rising commodity prices due to the COVID-19 virus.
+
+
+
+https://t.co/pDBUlOnAEI, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","y positive**
+
+The tweet promotes a webinar that will help businesses navigate exporting challenges and rising commodity prices due to the COVID-19 virus. The tone of the tweet is positive and encouraging, and it provides a clear call to action."
+46,44998,"Manhattan, NY",09-03-2020,"For those in gig economy who only earn if ppl are going out, we can immediately process refunds for 2019 Earned Income Tax Credit or Child Tax Credit - or they can borrow against 2020 credits. That cash can help make ends meet until normal consumer behavior returns #coronavirus",Unknown sentiment,"annotate this tweet: For those in gig economy who only earn if ppl are going out, we can immediately process refunds for 2019 Earned Income Tax Credit or Child Tax Credit - or they can borrow against 2020 credits. That cash can help make ends meet until normal consumer behavior returns #coronavirus, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Positive. The tweet provides information about how people in the gig economy can get cash assistance from the government.
+47,44999,"Colorado, USA",09-03-2020,"I have instructed that insurance companies make COVID-19 testing free. This important step will help ensure cost barriers do not stand in the way of people getting tested. 
+
+
+
+Read more: https://t.co/0VrdDfNPay https://t.co/9JdaVZw7ai",Positive,"annotate this tweet: I have instructed that insurance companies make COVID-19 testing free. This important step will help ensure cost barriers do not stand in the way of people getting tested. 
+
+
+
+Read more: https://t.co/0VrdDfNPay https://t.co/9JdaVZw7ai, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet indicates a positive step towards making COVID-19 testing more accessible and affordable.
+
+**Extremely Positive**
+
+**Reason:** The tweet suggests a strong commitment from the author to ensure that cost barriers do not prevent people from getting tested and potentially containing the spread of the pandemic.
+
+**Negative**
+
+**Reason:** The tweet does not provide specific details on how insurance companies will implement the free testing, leaving some questions unanswered.
+
+**Extremely Negative**
+
+**Reason:** The tweet does not allude to any potential drawbacks or challenges associated with making COVID-19 testing free through insurance companies."
+48,45000,"Washington, DC",09-03-2020,The oil prices dipping has absolutely nothing to do with #COVID2019 it has everything to do with #OPEC talks collapsing and Saudi feuding with Russia. Celebrate and calm the hell down.. weirdos.,Error: Unable to analyze label exception tweet,"annotate this tweet: The oil prices dipping has absolutely nothing to do with #COVID2019 it has everything to do with #OPEC talks collapsing and Saudi feuding with Russia. Celebrate and calm the hell down.. weirdos., from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: Unable to analyze reason exception tweet
+49,45001,United States,09-03-2020,"Global stocks plummeted today due to fear surrounding #COVID2019 and falling oil prices, which saw the biggest one-day drop since the 1991 Gulf War.
+
+
+
+Let's look at how the major stock indices have been reacting to the news, based on their closing values. https://t.co/fV7IehqaDo",Unknown sentiment,"annotate this tweet: Global stocks plummeted today due to fear surrounding #COVID2019 and falling oil prices, which saw the biggest one-day drop since the 1991 Gulf War.
+
+
+
+Let's look at how the major stock indices have been reacting to the news, based on their closing values. https://t.co/fV7IehqaDo, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","on:**
+
+**Tweet:** Global stocks plummeted today due to fear surrounding #COVID2019 and falling oil prices, which saw the biggest one-day drop since the 1991 Gulf War.
+
+**Stock Market Reaction:**
+
+* **Negative:** Global stock indices have been falling in response to the news.
+* **Link:** https://t.co/fV7IehqaDo (provides data on closing values of major stock indices)"
+50,45002,#NoNazis?? kaspum zaháv,09-03-2020,"The beginning of a  global recession!
+
+
+
+#Coronavirus damaging health crisis?
+
+#oil prices falling down?
+
+US stocks falling down?
+
+7% drop this morning &amp; trading halt?
+
+#migration crisis at the EU borders 
+
+#housingCrisis &amp; skyrocketing rents. Tenants are losing 50% of income?
+
+#Q*",Unknown sentiment,"annotate this tweet: The beginning of a  global recession!
+
+
+
+#Coronavirus damaging health crisis?
+
+#oil prices falling down?
+
+US stocks falling down?
+
+7% drop this morning &amp; trading halt?
+
+#migration crisis at the EU borders 
+
+#housingCrisis &amp; skyrocketing rents. Tenants are losing 50% of income?
+
+#Q*, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet highlights several negative economic and societal indicators, including:
+
+* The Coronavirus pandemic as a health crisis
+* Falling oil prices
+* Plummeting US stocks
+* Trading halt
+* Migration crisis at EU borders
+* Housing crisis and skyrocketing rents
+* Tenants losing significant income
+
+These factors collectively suggest a severe economic downturn or recession on a global scale."
+51,45003,Australia,09-03-2020,"@7NewsSydney @ScottMorrisonMP Some Factors have bought on the recession 1)Ignoring per-capita recession, 2)wage growth stagnant 3)Consumer debt levels are through the roof 4) casualized work! These changes in the economy are driven by government not #co",Unknown sentiment,"annotate this tweet: @7NewsSydney @ScottMorrisonMP Some Factors have bought on the recession 1)Ignoring per-capita recession, 2)wage growth stagnant 3)Consumer debt levels are through the roof 4) casualized work! These changes in the economy are driven by government not #co, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","These factors are all indicators of economic weakness and can contribute to a recession.
+
+The tweet is overall **Negative** because it highlights several factors that are contributing to the recession."
+52,45004,USA|EUROPE|ASIA|GLOBAL??,09-03-2020,"Cuomo press conference...
+
+New York is releasing new brand of state made had sanitizer prices from $0.80¢ - $6 a gallon!
+
+#CoronaVirusUpdates #Corona #CoronavirusOutbreak #virus #COVID2019 #COVID19 #NYC
+
+
+
+https://t.co/9jhElBwElZ",Extremely positive,"annotate this tweet: Cuomo press conference...
+
+New York is releasing new brand of state made had sanitizer prices from $0.80¢ - $6 a gallon!
+
+#CoronaVirusUpdates #Corona #CoronavirusOutbreak #virus #COVID2019 #COVID19 #NYC
+
+
+
+https://t.co/9jhElBwElZ, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","y positive**
+
+This tweet is extremely positive because it announces that New York is releasing a new brand of state-made hand sanitizer at affordable prices. This is good news for people who need hand sanitizer to protect themselves from the coronavirus."
+53,45005,Colorado,09-03-2020,"Ignore online offers for #vaccinations. There currently are no vaccines, pills, potions, lotions, lozenges or other prescription or over-the-counter products available to treat or cure #Coronavirus disease 2019 (COVID-19)  online or in stores.
+
+
+
+@FTC tips: https://t.co/Sqbf4LHB8H https://t.co/DX5po1KDqi",Positive,"annotate this tweet: Ignore online offers for #vaccinations. There currently are no vaccines, pills, potions, lotions, lozenges or other prescription or over-the-counter products available to treat or cure #Coronavirus disease 2019 (COVID-19)  online or in stores.
+
+
+
+@FTC tips: https://t.co/Sqbf4LHB8H https://t.co/DX5po1KDqi, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**: The tweet warns people about online offers for vaccinations that are not legitimate and may be scams.
+
+**Extremely positive**: The tweet provides clear and concise information about the current status of vaccines and treatments for COVID-19, and directs people to the FTC for more information.
+
+**Negative**: The tweet does not provide any information about when a vaccine or treatment for COVID-19 might be available.
+
+**Extremely negative**: The tweet may cause some people to be skeptical of all online offers for vaccinations, even those that are legitimate."
+54,45006,"Cambridgeshire, UK",09-03-2020,"If you are lucky enough to be sitting at home with enough food to get you through a period of self-isolation, please consider donating to the @TrussellTrust to help those who couldn't stock up even if they wanted to. #TrussellTrust #foodbanks #coronavirus #COVID19",Unknown sentiment,"annotate this tweet: If you are lucky enough to be sitting at home with enough food to get you through a period of self-isolation, please consider donating to the @TrussellTrust to help those who couldn't stock up even if they wanted to. #TrussellTrust #foodbanks #coronavirus #COVID19, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","y Positive**
+
+The tweet encourages people to donate to the Trussell Trust, a charity that supports food banks. This is a positive message because it promotes helping those in need. The tweet also uses the hashtags #TrussellTrust, #foodbanks, #coronavirus, and #COVID19 to raise awareness of the issue of food insecurity during the pandemic."
+55,45007,earth,09-03-2020,"@thehill Americans need to take it upon themselves to help avoid contracting covid-19.
+
+Prep to self quarantine for 2 wks.
+
+Stop unnecessary travel or crowd gatherings.
+
+Talk to your employer about how to proceed w/o harm to your career.
+
+Plan for sch",Unknown sentiment,"annotate this tweet: @thehill Americans need to take it upon themselves to help avoid contracting covid-19.
+
+Prep to self quarantine for 2 wks.
+
+Stop unnecessary travel or crowd gatherings.
+
+Talk to your employer about how to proceed w/o harm to your career.
+
+Plan for sch, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet encourages Americans to take personal responsibility for avoiding COVID-19, which is a positive step towards protecting public health.
+
+**Additional Notes:**
+
+* The tweet provides specific actions that Americans can take to avoid contracting the virus, including preparing to self-quarantine, avoiding unnecessary travel or crowd gatherings, and talking to their employer about how to proceed without harming their career.
+* The tweet is timely and relevant, as the COVID-19 pandemic continues to spread in the United States.
+* The tweet is from a reputable news source, @thehill, which adds to its credibility."
+56,45008,?? ???? ?????? . ??? ???? ???,09-03-2020,"@realDonaldTrump Separate Table of US Corna Virus Statistics.
+
+ Very high stats of corona virus.
+
+ US Government's Inability to Control Corona Virus.
+
+ High Price Disinfectant Gel in USA High price of mask in USA. 
+
+Food prices are rising day by day
+
+",Unknown sentiment,"annotate this tweet: @realDonaldTrump Separate Table of US Corna Virus Statistics.
+
+ Very high stats of corona virus.
+
+ US Government's Inability to Control Corona Virus.
+
+ High Price Disinfectant Gel in USA High price of mask in USA. 
+
+Food prices are rising day by day
+
+, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","@realDonaldTrump Separate Table of US Corna Virus Statistics.
+
+ Very high stats of corona virus.
+
+ US Government's Inability to Control Corona Virus.
+
+ High Price Disinfectant Gel in USA High price of mask in USA. 
+
+Food prices are rising day by day
+
+**Labels:**
+
+* **Very high stats of corona virus:** Negative. The tweet is pointing out the high number of COVID-19 cases in the US, which is a negative statistic.
+* **US Government's Inability to Control Corona Virus:** Negative. The tweet is criticizing the US government's handling of the pandemic, which is a negative point.
+* **High Price Disinfectant Gel in USA High price of mask in USA:** Negative. The tweet is pointing out the high prices of essential items during the pandemic, which is a negative factor.
+* **Food prices are rising day by day:** Negative. The tweet is pointing out the rising cost of food, which is a negative factor for many people."
+57,45009,"Texas, USA",10-03-2020,"#ToiletPaper shortage ??
+
+Don't believe everything you see on TV! My Costco just now....,.#CoronaVirus https://t.co/FDviKzgFwd",Unknown sentiment,"annotate this tweet: #ToiletPaper shortage ??
+
+Don't believe everything you see on TV! My Costco just now....,.#CoronaVirus https://t.co/FDviKzgFwd, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet is about a shortage of toilet paper, which is a negative situation. The tweet also expresses frustration with the media, which is another negative sentiment."
+58,45010,"Western Australia, Australia",10-03-2020,"Come on guys, please be like bob!
+
+
+
+#COVID2019 #panicbuying #coronavirus https://t.co/kMly3zNynR",Error: Unable to analyze label exception tweet,"annotate this tweet: Come on guys, please be like bob!
+
+
+
+#COVID2019 #panicbuying #coronavirus https://t.co/kMly3zNynR, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: Unable to analyze reason exception tweet
+59,45011,London,10-03-2020,"If you have booked a ticket to an event as part of a package holiday you will be offered an alternative or a refund by your travel provider, if it has been cancelled due to #Coronavirus.
+
+
+
+Check ABTA's consumer Q&amp;A at: https://t.co/oUB4MNmrNA
+
+
+
+#COVID19 https://t.co/kMHJehS2JH",Unknown sentiment,"annotate this tweet: If you have booked a ticket to an event as part of a package holiday you will be offered an alternative or a refund by your travel provider, if it has been cancelled due to #Coronavirus.
+
+
+
+Check ABTA's consumer Q&amp;A at: https://t.co/oUB4MNmrNA
+
+
+
+#COVID19 https://t.co/kMHJehS2JH, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",The tweet gives information about the remedy available to the customers whose event bookings under package holiday were cancelled due to #coronavirus. The customers will be offered an alternative or refund by the travel provider if the event has been cancelled. The tweet ends with relevant links for the consumer Q&A by ABTA and the hashtag #COVID19.
+60,45012,,10-03-2020,"Breaking: New Jersey officials urge residents to stock up for a two week #coronavirus quarantine ""Just in case""
+
+
+
+#COVID19 
+
+https://t.co/fc8imQ7TAR",Unknown sentiment,"annotate this tweet: Breaking: New Jersey officials urge residents to stock up for a two week #coronavirus quarantine ""Just in case""
+
+
+
+#COVID19 
+
+https://t.co/fc8imQ7TAR, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet is asking people to stock up for a two week #coronavirus quarantine. This could create a sense of panic and fear among the public. It could also lead to people buying more than they need, which could lead to shortages."
+61,45013,"Dallas, USA",10-03-2020,"4- Russia LNG will also suffer. The irony is, spot LNG prices were already at a record low because of the #Coronavirus and the declaration of force majeure by Chinese companies. 
+
+
+
+Contracted LNG became the only way to make money until oil prices collapsed. It is a big hit https://t.co/ksFQ4uzqAn",Unknown sentiment,"annotate this tweet: 4- Russia LNG will also suffer. The irony is, spot LNG prices were already at a record low because of the #Coronavirus and the declaration of force majeure by Chinese companies. 
+
+
+
+Contracted LNG became the only way to make money until oil prices collapsed. It is a big hit https://t.co/ksFQ4uzqAn, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","t:** Extremely Negative
+
+**Reasoning:**
+
+The tweet discusses the negative impact of the coronavirus pandemic and oil price collapse on the Russian LNG industry. It notes that spot LNG prices were already at a record low due to the pandemic, and that the declaration of force majeure by Chinese companies further exacerbated the situation. As a result, contracted LNG became the only way to make money, but even that market has been hit hard by the oil price collapse."
+62,45014,"Bowling Green, KY",10-03-2020,#BreakingNews #terrorists have watched closely as the #coronavirus spins its web. They now know what Americans value most. Wiping their ass! Citizens rush to buy toilet paper but neglect to stock up on food! Terrorists are holding our #toiletpaper  factories hostage! Film at 11! https://t.co/7maYfTGxJA,Error: Unable to analyze label exception tweet,"annotate this tweet: #BreakingNews #terrorists have watched closely as the #coronavirus spins its web. They now know what Americans value most. Wiping their ass! Citizens rush to buy toilet paper but neglect to stock up on food! Terrorists are holding our #toiletpaper  factories hostage! Film at 11! https://t.co/7maYfTGxJA, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: Unable to analyze reason exception tweet
+63,45015,Five offices across Canada,10-03-2020,"""As the novel #coronavirus (or #COVID19) continues to spread worldwide, its impact on international business operations, supply chains, travel, commodity prices, consumer confidence and business forecasts is becoming increasingly acute.""
+
+#BLGPublication https://t.co/BDIedMNksK",Extremely Negative,"annotate this tweet: ""As the novel #coronavirus (or #COVID19) continues to spread worldwide, its impact on international business operations, supply chains, travel, commodity prices, consumer confidence and business forecasts is becoming increasingly acute.""
+
+#BLGPublication https://t.co/BDIedMNksK, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","y Negative**
+
+The tweet discusses the negative impact of the novel #coronavirus (or #COVID19) on international business operations, supply chains, travel, commodity prices, consumer confidence and business forecasts. The use of words like ""acute"", ""impact"" and ""negative"" indicates that the tweet is expressing a very negative view of the current situation."
+64,45016,,10-03-2020,"Lower #Oil prices, lower #InterestRate, and some sort of fiscal #stimulus is great, but the consumer isn't the problem. The problem is fear of #coronavirus and fear of being quarantined for 14 days. That's why people stopped traveling. Not because of interest rates or taxes.",Unknown sentiment,"annotate this tweet: Lower #Oil prices, lower #InterestRate, and some sort of fiscal #stimulus is great, but the consumer isn't the problem. The problem is fear of #coronavirus and fear of being quarantined for 14 days. That's why people stopped traveling. Not because of interest rates or taxes., from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet expresses concern about the negative impact of fear of coronavirus and fear of being quarantined for 14 days on consumer behavior, particularly in the travel industry."
+65,45017,,10-03-2020,Consumers have increased their online shopping due to coronavirus. https://t.co/5mYfz3RAD0 #retail #ecommerce #study #coronavirus https://t.co/Dz3H6zrWUT,Positive,"annotate this tweet: Consumers have increased their online shopping due to coronavirus. https://t.co/5mYfz3RAD0 #retail #ecommerce #study #coronavirus https://t.co/Dz3H6zrWUT, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+The tweet provides a positive message about the increase in online shopping due to the coronavirus. This is good news for retailers and e-commerce businesses.
+
+**Extremely positive**
+
+The tweet is extremely positive because it shows that consumers are still willing to spend money, even during a pandemic. This is a sign that the economy is still strong.
+
+**Negative**
+
+There is no negative message in the tweet.
+
+**Extremely negative**
+
+There is no extremely negative message in the tweet.
+
+**Reason**
+
+The tweet provides a positive message about the increase in online shopping due to the coronavirus. This is good news for retailers and e-commerce businesses. The tweet is also extremely positive because it shows that consumers are still willing to spend money, even during a pandemic. This is a sign that the economy is still strong."
+66,45018,"Lambeth, London",10-03-2020,"For those self indulging in thoughts of food, medicine and essential household goods stock piling. Like people on universal credit be stock piling FFS!!! #coronavirus",Error: Unable to analyze label exception tweet,"annotate this tweet: For those self indulging in thoughts of food, medicine and essential household goods stock piling. Like people on universal credit be stock piling FFS!!! #coronavirus, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: Unable to analyze reason exception tweet
+67,45019,"Wales, United Kingdom",10-03-2020,"Ok if #COVID2019 is nothing to panic about why is Italy imposing the biggest restrictions on the civilian population since WW2? 
+
+How will the supermarkets be able to provide food if all the workers are told to stay at home? 
+
+Same with any other Bussiness.",Unknown sentiment,"annotate this tweet: Ok if #COVID2019 is nothing to panic about why is Italy imposing the biggest restrictions on the civilian population since WW2? 
+
+How will the supermarkets be able to provide food if all the workers are told to stay at home? 
+
+Same with any other Bussiness., from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet expresses concern and skepticism about the severity of the COVID-19 pandemic, based on the fact that Italy is implementing strict restrictions despite the virus supposedly being mild. It also raises valid questions about the potential impact of these restrictions on essential services such as food supply."
+68,45020,Washington DC,10-03-2020,"Trump said people must ""be vigilant,"" then concluded, ""Be calm. It's really working out. And: lot of good things are going to happen. The consumer is ready. The consumer is so powerful in our country with what we've done with tax cuts and regulation cuts and all of those things.""",Positive,"annotate this tweet: Trump said people must ""be vigilant,"" then concluded, ""Be calm. It's really working out. And: lot of good things are going to happen. The consumer is ready. The consumer is so powerful in our country with what we've done with tax cuts and regulation cuts and all of those things."", from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","**
+
+* ""Be calm. It's really working out.""
+* ""And: lot of good things are going to happen.""
+* ""The consumer is ready.""
+* ""The consumer is so powerful in our country with what we've done with tax cuts and regulation cuts and all of those things.""
+
+**Extremely positive**
+
+* None
+
+**Negative**
+
+* None
+
+**Extremely negative**
+
+* None"
